@@ -1,0 +1,8 @@
+session_url: "https://jsonplaceholder.typicode.com/posts"
+user_name: ""
+password: ""
+response_code: "2xx"
+custom_msg: "error"
+user_hits: 10
+dict_obj_keys: ["id", "userId", "title", "body"]
+
